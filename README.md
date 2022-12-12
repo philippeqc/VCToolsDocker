@@ -1,7 +1,7 @@
 
-VCTools v142 build environment.
+VCTools build environment in Docker
 
-Provide the workload Microsoft.VisualStudio.Workload.VCTools using Visual Studio 2019 build tools on Windows Server 2019.
+Provide the workload Microsoft.VisualStudio.Workload.VCTools, currently v142 using Visual Studio 2019 build tools on Windows Server 2019.
 
 # Usage
 
